@@ -20,13 +20,22 @@ socialImage: "/media/ten.jpg"
 
 2011 年的 5.1 拖着行李箱，乘坐绿皮车从南宁来到广州 - 历时 12 小时，从此并走上了开发这条不归路。
 
-## 前尘往事
-
 <div><audio src="/media/audio/不羁的风.flac" controls /></div>
 
-10年前的某一天，少年。
+## 前尘往事
 
-![jq.png](/media/jq.png)
+10 年前的某一天，少年。
+
+```js
+// jQuery
+
+$(document).ready(function () {
+  var hiddenBox = $("#banner-message");
+  $("#button-container button").on("click", function (event) {
+    hiddenBox.show();
+  });
+});
+```
 
 _Write less,do more._
 
