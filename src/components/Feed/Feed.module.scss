@@ -16,12 +16,11 @@
       @include margin-bottom(.5);
 
       &-link {
-        color: $color-base;
+        color: $color-primary;
 
         &:hover,
         &:focus {
-          color: $color-base;
-          border-bottom: 1px solid $color-base;
+          color: $color-secondary;
         }
 
       }
@@ -32,13 +31,15 @@
       font-size: $typographic-base-font-size;
       @include line-height(1);
       @include margin-bottom(.75);
+      color: $color-gray-text;
+      font-style: italic;
     }
 
     &-meta {
       &-time {
-        font-size: $typographic-small-font-size;
+        font-size: 12px;
         color: $color-gray;
-        font-weight: 600;
+        font-weight: 500;
         text-transform: uppercase;
       }
 
@@ -47,8 +48,9 @@
       }
 
       &-category {
+        
         &-link {
-          font-size: $typographic-small-font-size;
+          font-size: 12px;
           color: $color-secondary;
           font-weight: 600;
           text-transform: uppercase;
