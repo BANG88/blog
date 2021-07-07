@@ -91,8 +91,7 @@ socialImage: "/media/ten.jpg"
 
 没看完的就不列了。
 
-
-
+对于我这种村里来的什么都靠自己了，没有导师也没人指引。在做决定的时候也没人给个中肯的建议，走错路，或者错失机会都是常态，需要点好运。
 
 A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
 
