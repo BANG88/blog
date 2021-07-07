@@ -48,47 +48,48 @@ socialImage: "/media/ten.jpg"
 
 ### 2011
 
-- [JavaScript高级程序设计(第2版)](https://www.amazon.cn/gp/product/B003V42XZW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-- [编写高质量代码:Web前端开发修炼之道](https://www.amazon.cn/gp/product/B003U8XUKQ/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-- [高性能JavaScript](https://www.amazon.cn/gp/product/B004AGO3L2/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-- [瞬间之美:Web界面设计如何让用户心动](https://www.amazon.cn/gp/product/B002JCU2TG/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-- [精通CSS:高级Web标准解决方案(第2版)](https://www.amazon.cn/gp/product/B003IURKAM/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-- [JavaScript权威指南(第5版)](https://www.amazon.cn/gp/product/B0012UMVYA/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [JavaScript 高级程序设计(第 2 版)](https://www.amazon.cn/gp/product/B003V42XZW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+- [编写高质量代码:Web 前端开发修炼之道](https://www.amazon.cn/gp/product/B003U8XUKQ/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [高性能 JavaScript](https://www.amazon.cn/gp/product/B004AGO3L2/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+- [瞬间之美:Web 界面设计如何让用户心动](https://www.amazon.cn/gp/product/B002JCU2TG/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+- [精通 CSS:高级 Web 标准解决方案(第 2 版)](https://www.amazon.cn/gp/product/B003IURKAM/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+- [JavaScript 权威指南(第 5 版)](https://www.amazon.cn/gp/product/B0012UMVYA/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [少有人走的路:心智成熟的旅程](https://www.amazon.cn/gp/product/B0011C03FI/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-- [HTML5高级程序设计](https://www.amazon.cn/gp/product/B004HK1V3Y/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [HTML5 高级程序设计](https://www.amazon.cn/gp/product/B004HK1V3Y/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [高性能网站建设指南](https://www.amazon.cn/gp/product/B001C0CFTG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-- [构建高性能Web站点](https://www.amazon.cn/gp/product/B002LVU25Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-
+- [构建高性能 Web 站点](https://www.amazon.cn/gp/product/B002LVU25Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 ### 2012
 
-- [写给大家看的设计书(第3版)](https://www.amazon.cn/gp/product/B001MV7CXY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-- [用户体验要素:以用户为中心的产品设计(原书第2版)](https://www.amazon.cn/gp/product/B0056E8VDS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [写给大家看的设计书(第 3 版)](https://www.amazon.cn/gp/product/B001MV7CXY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [用户体验要素:以用户为中心的产品设计(原书第 2 版)](https://www.amazon.cn/gp/product/B0056E8VDS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [简约至上:交互式设计四策略](https://www.amazon.cn/gp/product/B004I91HCY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [设计心理学](https://www.amazon.cn/gp/product/B003CIOS1O/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [启示录:打造用户喜爱的产品](https://www.amazon.cn/gp/product/B004Y4QWMS/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
-- [点石成金:访客至上的网页设计秘笈(原书第2版)](https://www.amazon.cn/gp/product/B0011BTJV8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- [点石成金:访客至上的网页设计秘笈(原书第 2 版)](https://www.amazon.cn/gp/product/B0011BTJV8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [松本行弘的程序世界](https://www.amazon.cn/gp/product/B005KGBTQ8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
-- [JavaScript语言精髓与编程实践(第2版)](https://www.amazon.cn/gp/product/B007IVAG8K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-- [Web表单设计:创建高可用性的网页表单](https://www.amazon.cn/gp/product/B004QWSS3O/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-- [一目了然:Web和移动应用设计通识方法(原书第2版)](https://www.amazon.cn/gp/product/B007IQN00G/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [JavaScript 语言精髓与编程实践(第 2 版)](https://www.amazon.cn/gp/product/B007IVAG8K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [Web 表单设计:创建高可用性的网页表单](https://www.amazon.cn/gp/product/B004QWSS3O/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [一目了然:Web 和移动应用设计通识方法(原书第 2 版)](https://www.amazon.cn/gp/product/B007IQN00G/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [启示录:打造用户喜爱的产品](https://www.amazon.cn/gp/product/B004Y4QWMS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-- [JavaScript DOM编程艺术(第2版)](https://www.amazon.cn/gp/product/B004VJM5KE/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
-- [JavaScript高级程序设计(第3版)](https://www.amazon.cn/gp/product/B007OQQVMY/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- [JavaScript DOM 编程艺术(第 2 版)](https://www.amazon.cn/gp/product/B004VJM5KE/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- [JavaScript 高级程序设计(第 3 版)](https://www.amazon.cn/gp/product/B007OQQVMY/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [JavaScript:The Good Parts(影印版)](https://www.amazon.cn/gp/product/B001MS8LXC/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-- [设计心理学3:情感设计](https://www.amazon.cn/gp/product/B007OPIUAQ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [设计心理学2:如何管理复杂](https://www.amazon.cn/gp/product/B005EJIXBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [JavaScript模式](https://www.amazon.cn/gp/product/B008QTG1HS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Node.js 开发指南](https://www.amazon.cn/gp/product/B008HN793I/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [Node Web 开发/图灵程序设计丛书](https://www.amazon.cn/gp/product/B007ZXYK38/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [MongoDB 实战/图灵程序设计丛书](https://www.amazon.cn/gp/product/B009YK337Y/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [设计心理学 3:情感设计](https://www.amazon.cn/gp/product/B007OPIUAQ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [设计心理学 2:如何管理复杂](https://www.amazon.cn/gp/product/B005EJIXBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [JavaScript 模式](https://www.amazon.cn/gp/product/B008QTG1HS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [IDEO,设计改变一切:设计思维如何变革组织和激发创新(苹果第一支鼠标的设计公司，创新工场李开复鼎力推荐)](https://www.amazon.cn/gp/product/B0053NEQX6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### 2013
 
-- [响应式Web设计:HTML5和CSS3实战](https://www.amazon.cn/gp/product/B00AH83HUK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-- [JavaScript面向对象编程指南](https://www.amazon.cn/gp/product/B00BLZMC4K/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [用AngularJS开发下一代Web应用（来自Google，最具潜力的JavaScript框架的唯一著作）](https://www.amazon.cn/gp/product/B00G3XSBG8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [响应式 Web 设计:HTML5 和 CSS3 实战](https://www.amazon.cn/gp/product/B00AH83HUK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [JavaScript 面向对象编程指南](https://www.amazon.cn/gp/product/B00BLZMC4K/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [用 AngularJS 开发下一代 Web 应用（来自 Google，最具潜力的 JavaScript 框架的唯一著作）](https://www.amazon.cn/gp/product/B00G3XSBG8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
-
-没看完的就不列了。 
-
+没看完的就不列了。
 
 ```js
 // jQuery
