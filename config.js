@@ -6,7 +6,7 @@ module.exports = {
   title: 'JUST DO IT.',
   subtitle: 'Nothing.',
   copyright: '© ❤',
-  disqusShortname: '',
+  disqusShortname: 'domybest-dev',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-80533315-1',
   useKatex: false,
