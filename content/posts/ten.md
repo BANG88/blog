@@ -22,6 +22,8 @@ socialImage: "/media/ten.jpg"
 
 <div><audio src="/media/audio/不羁的风.flac" controls /></div>
 
+我可能跟大部分同学一样，对自己的未来都是没有规划的，走到哪算哪的那种。
+
 ## 前尘往事
 
 10 年前的某一天，少年。
