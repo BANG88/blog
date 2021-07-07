@@ -41,7 +41,7 @@ socialImage: "/media/ten.jpg"
 而且从书中收获最多的一次。
 
 凭借着这点基础就去找了一份专职的前端工作了，因为对 jQuery 的 api 相对来说挺熟悉的（很认真的看了好几遍书，边看边练习），用起来也挺顺手，
-对大部分业务也都能用 jQuery 搞定，后面又有了 jQuery UI，所以相对来说事情倒简单了不少。
+对大部分业务也都能用 jQuery 搞定，后面又有了 jQuery UI，所以相对来说事情倒简单了不少。我不是那种徒手写框架的人，也不喜欢干那事。
 
 开始真正的前端开发了，这得谢谢我的第一个东家。在里面 3 年的时间里，我用每个月公司补贴的钱全部买书了。这三年是我成长中
 最重要的三年，为以后打下了坚实的基础。
@@ -91,18 +91,8 @@ socialImage: "/media/ten.jpg"
 
 没看完的就不列了。
 
-```js
-// jQuery
 
-$(document).ready(function () {
-  var hiddenBox = $("#banner-message");
-  $("#button-container button").on("click", function (event) {
-    hiddenBox.show();
-  });
-});
-```
 
-_Write less,do more._
 
 A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
 
