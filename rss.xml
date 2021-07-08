@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JUST DO IT.]]></title><description><![CDATA[Nothing.]]></description><link>https://domybest.dev</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Jul 2021 02:06:00 GMT</lastBuildDate><item><title><![CDATA[Ten]]></title><description><![CDATA[10年]]></description><link>https://domybest.dev/posts/10-years-of-frontend-development</link><guid isPermaLink="false">https://domybest.dev/posts/10-years-of-frontend-development</guid><pubDate>Tue, 06 Jul 2021 06:15:27 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;#%E5%89%8D%E5%B0%98%E5%BE%80%E4%BA%8B&quot;&gt;前尘往事&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#2011&quot;&gt;2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2012&quot;&gt;2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2013&quot;&gt;2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E4%B8%8D%E7%A1%AE%E5%AE%9A%E7%9A%84%E5%B9%B4%E7%BA%AA&quot;&gt;不确定的年纪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E5%88%BB%E9%AA%A8%E9%93%AD%E5%BF%83&quot;&gt;刻骨铭心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E6%B2%89%E9%BB%98%E6%98%AF%E9%87%91&quot;&gt;沉默是金&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E5%A5%94%E5%90%91%E6%9C%AA%E6%9D%A5%E6%97%A5%E5%AD%90&quot;&gt;奔向未来日子&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;10 年回顾&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2011 年的 5.1 拖着行李箱，乘坐绿皮车从南宁来到广州 - 历时 12 小时，从此并走上了开发这条不归路。&lt;/p&gt;
+&lt;div&gt;&lt;audio src=&quot;/media/audio/不羁的风.flac&quot; controls /&gt;&lt;/div&gt;
+&lt;p&gt;我可能跟大部分同学一样，对自己的未来都是没有规划的，走到哪算哪的那种。学校学的基本都是非常浅的入门篇，
+而且也没怎么学。那会做 asp.net 的比较多，因为有控件比较容易上手，所以刚开始也是做网站，卖模板的也多，哈哈哈。&lt;/p&gt;
+&lt;p&gt;那会还没有前端，只有切图仔，以网页三剑客谋生。&lt;/p&gt;
+&lt;h2 id=&quot;前尘往事&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%89%8D%E5%B0%98%E5%BE%80%E4%BA%8B&quot; aria-label=&quot;前尘往事 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;前尘往事&lt;/h2&gt;
+&lt;p&gt;10 年前的某一天，少年听说现在有一个很专业的职位，只需负责前台的展示以及交互部分，也就是还原设计稿，不需要写后台代码。
+要求具有良好的前瞻性，对设计敏感，能原样输出设计稿为 html 网页，会简单的 js &lt;strong&gt;特效&lt;/strong&gt;。 眼里有光（发亮的那种光 - 。 -，
+但是自己几斤几两还是很清楚的，不知道如何用原生 js 操作&lt;code class=&quot;language-text&quot;&gt;dom&lt;/code&gt;，听说还有一种 叫 &lt;code class=&quot;language-text&quot;&gt;AJAX&lt;/code&gt; 的技术，也不知道是啥玩意。&lt;/p&gt;
+&lt;p&gt;几天折腾后发现一个叫 jQuery 的框架，不需要写原生 js 就可以操作 dom，有动画也有$.ajax 封装，简直是神器了。网上搜了一下，有一本
+锋利的 jQuery 的书评分挺高的，于是马上从 Amazon 下单了一本。拿到书后挺开心的，很薄。没多久就翻完了，这是我第一次认真看完一本书，
+而且从书中收获最多的一次。&lt;/p&gt;
+&lt;p&gt;凭借着这点基础就去找了一份专职的前端工作了，因为对 jQuery 的 api 相对来说挺熟悉的（很认真的看了好几遍书，边看边练习），用起来也挺顺手，
+对大部分业务也都能用 jQuery 搞定，后面又有了 jQuery UI，所以相对来说事情倒简单了不少。我不是那种徒手写框架的人，也不喜欢干那事。&lt;/p&gt;
+&lt;p&gt;开始真正的前端开发了，这得谢谢我的第一个东家。在里面 3 年的时间里，我用每个月公司补贴的钱全部买书了。这三年是我成长中
+最重要的三年，为以后打下了坚实的基础。&lt;/p&gt;
+&lt;h3 id=&quot;2011&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2011&quot; aria-label=&quot;2011 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2011&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B003V42XZW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 高级程序设计(第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B003U8XUKQ/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;编写高质量代码:Web 前端开发修炼之道&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004AGO3L2/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;高性能 JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B002JCU2TG/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;瞬间之美:Web 界面设计如何让用户心动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B003IURKAM/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;精通 CSS:高级 Web 标准解决方案(第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B0012UMVYA/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 权威指南(第 5 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B0011C03FI/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;少有人走的路:心智成熟的旅程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004HK1V3Y/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;HTML5 高级程序设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B001C0CFTG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;高性能网站建设指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B002LVU25Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;构建高性能 Web 站点&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2012&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2012&quot; aria-label=&quot;2012 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2012&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B001MV7CXY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;写给大家看的设计书(第 3 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B0056E8VDS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;用户体验要素:以用户为中心的产品设计(原书第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004I91HCY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;简约至上:交互式设计四策略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B003CIOS1O/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;设计心理学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004Y4QWMS/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;启示录:打造用户喜爱的产品&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B0011BTJV8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;点石成金:访客至上的网页设计秘笈(原书第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B005KGBTQ8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;松本行弘的程序世界&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B007IVAG8K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 语言精髓与编程实践(第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004QWSS3O/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Web 表单设计:创建高可用性的网页表单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B007IQN00G/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;一目了然:Web 和移动应用设计通识方法(原书第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004Y4QWMS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;启示录:打造用户喜爱的产品&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B004VJM5KE/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript DOM 编程艺术(第 2 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B007OQQVMY/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 高级程序设计(第 3 版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B001MS8LXC/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript:The Good Parts(影印版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B008HN793I/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Node.js 开发指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B007ZXYK38/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Node Web 开发/图灵程序设计丛书&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B009YK337Y/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;MongoDB 实战/图灵程序设计丛书&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B007OPIUAQ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;设计心理学 3:情感设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B005EJIXBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;设计心理学 2:如何管理复杂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B008QTG1HS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B0053NEQX6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;IDEO,设计改变一切:设计思维如何变革组织和激发创新(苹果第一支鼠标的设计公司，创新工场李开复鼎力推荐)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2013&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2013&quot; aria-label=&quot;2013 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2013&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B00AH83HUK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;响应式 Web 设计:HTML5 和 CSS3 实战&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B00BLZMC4K/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;JavaScript 面向对象编程指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.cn/gp/product/B00G3XSBG8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;#x26;psc=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;用 AngularJS 开发下一代 Web 应用（来自 Google，最具潜力的 JavaScript 框架的唯一著作）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没看完的就不列了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于我这种村里来的什么都靠自己了，没有导师也没人指引。在做决定的时候也没人给个中肯的建议，走错路，走弯路，或者错失机会都是常态，需要点好运。
+&lt;strong&gt;不要常立志，要立长志。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/80c29aaa58b18a570fcaa0f3d5841d2d/d2602/ten.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAASzBJlgLRv/EABkQAAIDAQAAAAAAAAAAAAAAAAABAhETA//aAAgBAQABBQLZXujbkKcLsUrP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAEDAQE/AYw//8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8BpT//xAAaEAEAAQUAAAAAAAAAAAAAAAAAEBEhMaHh/9oACAEBAAY/AnGdKLR//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIUExUf/aAAgBAQABPyELwsFznyKuouaIcY7rUAXP/9oADAMBAAIAAwAAABBE7//EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oACAEDAQE/EFEK/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAx/9oACAECAQE/ENBO/8QAHhABAAMAAgIDAAAAAAAAAAAAAQARITFxQVFhgeH/2gAIAQEAAT8QsVA8u51AhD8WPyOB+1RFqqB0X0kfbprSu5hjzXE//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/80c29aaa58b18a570fcaa0f3d5841d2d/8ac56/ten.webp 240w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/d3be9/ten.webp 480w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/e46b2/ten.webp 960w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/f992d/ten.webp 1440w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/882b9/ten.webp 1920w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/b33a3/ten.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/80c29aaa58b18a570fcaa0f3d5841d2d/09b79/ten.jpg 240w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/7cc5e/ten.jpg 480w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/6a068/ten.jpg 960w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/644c5/ten.jpg 1440w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/0f98f/ten.jpg 1920w,
+/static/80c29aaa58b18a570fcaa0f3d5841d2d/d2602/ten.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/80c29aaa58b18a570fcaa0f3d5841d2d/6a068/ten.jpg&quot;
+            alt=&quot;ten.jpg&quot;
+            title=&quot;ten.jpg&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;不确定的年纪&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E4%B8%8D%E7%A1%AE%E5%AE%9A%E7%9A%84%E5%B9%B4%E7%BA%AA&quot; aria-label=&quot;不确定的年纪 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;不确定的年纪&lt;/h2&gt;
+&lt;h2 id=&quot;刻骨铭心&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%88%BB%E9%AA%A8%E9%93%AD%E5%BF%83&quot; aria-label=&quot;刻骨铭心 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;刻骨铭心&lt;/h2&gt;
+&lt;h2 id=&quot;沉默是金&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E6%B2%89%E9%BB%98%E6%98%AF%E9%87%91&quot; aria-label=&quot;沉默是金 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;沉默是金&lt;/h2&gt;
+&lt;h2 id=&quot;奔向未来日子&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%A5%94%E5%90%91%E6%9C%AA%E6%9D%A5%E6%97%A5%E5%AD%90&quot; aria-label=&quot;奔向未来日子 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;奔向未来日子&lt;/h2&gt;
+&lt;div&gt;&lt;audio src=&quot;/media/audio/奔向未来日子.flac&quot; controls /&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To be continued&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>
